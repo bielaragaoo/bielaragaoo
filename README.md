@@ -1,6 +1,7 @@
 ## E aí! Eu sou o Gabriel Aragão 👋
 
-### Desenvolvedor iOS | Apaixonado por tecnologia, design e experiências de usuário fluidas 🚀
+### Desenvolvedor iOS | iOS Developer | App Development | Mobile Solutions | App Design | Swift | UIKit | SwifUI | Software Engineer 
+    Apaixonado por tecnologia, design e experiências de usuário fluidas 🚀
 
 ---
 
@@ -22,9 +23,11 @@ Também sou certificado como Scrum Master e acredito muito em processos ágeis b
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielaragaoo&show_icons=true&theme=tokyonight)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D1117?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
