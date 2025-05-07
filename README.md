@@ -30,7 +30,7 @@ Também sou certificado como Scrum Master e acredito muito em processos ágeis b
 
 ### 🌐 Onde me encontrar
 
-- [LinkedIn]([https://www.linkedin.com/in/elpidio-gabriel-desenvolvedor-ios])
+- [LinkedIn](https://www.linkedin.com/in/elpidio-gabriel-desenvolvedor-ios)
 - [Portfólio (em construção)](https://github.com/bielaragaoo)
 
 ---
